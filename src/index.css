@@ -26,4 +26,5 @@ select {
 textarea {
   border: 1px solid black;
   width: 100%;
+  padding: 0rem 0.5rem;
 }
